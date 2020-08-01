@@ -10,13 +10,6 @@ But you can get your own key in less than a minute and learn more about api here
 
 Then inside project folder type `npm install && npm start`.
 
-### coming soon
-
-- mobile friendly desing
-- buttons to play/pause, skip forward and back songs
-- more adaptive font size for long titles
-- cool favicon
-
 ### some libraries I used
 - react, redux, reselect, redux-observable, rambda
 - react-spotify-auth, js-cookie
